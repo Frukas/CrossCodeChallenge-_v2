@@ -1,8 +1,9 @@
-# CrossCodeChallenge
+# CrossCodeChallenge_V2
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
-<p>O projeto é um desafio de ETL (Extract, Transform and Load), que se obtem dados de umas páginas, os ordena e devolve os dados através de uma chamada HTTP.</p>
+<p>O projeto é um desafio de ETL (Extract, Transform and Load), que se obtem dados de umas páginas, os ordena e devolve os dados através de uma chamada HTTP.Segunda tentativa do projeto.</p>
+
 
 ## Desenvolvido com
 
@@ -21,4 +22,4 @@ Fazer uma chamada HTTP:
   http://localhost:8080/NumbersResult
   ```
 
-Aguarde pois o código pode levar por cerca de um minuto.
+Aguarde pois o código pode levar por cerca de dois minutos.
