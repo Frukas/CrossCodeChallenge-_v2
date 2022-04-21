@@ -1,8 +1,9 @@
-# CrossCodeChallenge
+# CrossCodeChallenge_V2
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
-<p>O projeto é um desafio de ETL (Extract, Transform and Load), que se obtem dados de umas páginas, os ordena e devolve os dados através de uma chamada HTTP.</p>
+<p>O projeto é um desafio de ETL (Extract, Transform and Load), que se obtem dados de umas páginas, os ordena e devolve os dados através de uma chamada HTTP.Segunda tentativa do projeto.</p>
+
 
 ## Desenvolvido com
 
