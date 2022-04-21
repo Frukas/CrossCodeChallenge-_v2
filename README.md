@@ -21,4 +21,4 @@ Fazer uma chamada HTTP:
   http://localhost:8080/NumbersResult
   ```
 
-Aguarde pois o código pode levar por cerca de um minuto.
+Aguarde pois o código pode levar por cerca de dois minutos.
