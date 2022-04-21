@@ -9,10 +9,6 @@ import (
 	"time"
 )
 
-func DataretriverClassTester() {
-	fmt.Println("Dataretriver funcionado")
-}
-
 type NumberSet struct {
 	Numbers []float32 `json:"numbers"`
 }
